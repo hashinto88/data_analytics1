@@ -1,0 +1,20 @@
+Name of the column,Data Type,Description
+Suburb,Nominal,Suburb in which the property is located
+Rooms,Number,Number of rooms in the property
+Type,Nominal,"Type of the property like:
+h - house,cottage,villa, semi,terrace, 
+t - townhouse,
+u - unit, duplex"
+SellerG,Nominal,Name of the real estate agent who sold the property
+Date,Date,Date on which the property was sold
+Distance,Number,Distance of the property from CBD in kilometres. CBD is the central business district of the city.
+Postcode,Number,Postcode of the area
+Bedroom,Number,Number of bedrooms in the property
+Bathroom,Number,Number of bathrooms in the property
+Car,Number,Number of car parking spaces in the property
+LandSize,Number,Size of the land in square metres
+BuildingArea,Number,"Size of the building in square metres (Generally, building size is smaller than land size since someone can have personal gardens and other things in the property.)"
+YearBuilt,Number,Year in which the building was built
+Regionname,Nominal,"Name of the region in which the property is located like Eastern Metropolitan, Western Metropolitan, Northern Victoria etc."
+Propertycount,Number,Number of properties that are present in the suburb
+Price,Number,price (in AUD) at which the property was sold
